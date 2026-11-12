@@ -1,0 +1,4 @@
+sessions/
+accounts/
+__pycache__/
+*.log
